@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </div>
 
-## 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🎓+ECE+Student+with+Software+Passion;🚀+Building+Hardware+%26+Software+Solutions;🤖+AI+%26+ML+Enthusiast;🌟+Full-Stack+Developer;🔥+Lifelong+Learner+%26+Innovator" alt="About Me" />
@@ -23,10 +23,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/213896635-b9199b74-a58c-475f-9f97-2bb8e708e4f1.gif" width="400" />
 </div>
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/Shriyansh Chauhan" target="_blank">
@@ -49,88 +49,122 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 </div>
 
-## 💻 Tech Stack & Tools
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
-### 🛠️ Languages & Frameworks
+<div align="center">
+  <h3>🛠️ Languages & Frameworks (Live)</h3>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nodejs,firebase,mongodb,mysql,postgres,git,github,figma,docker,gcp,vercel" alt="Tech Stack" />
+</div>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
         <br><strong>C</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
         <br><strong>C++</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
         <br><strong>Java</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
         <br><strong>Python</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
         <br><strong>JavaScript</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
         <br><strong>TypeScript</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
         <br><strong>React</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" width="65" height="65" />
-        <br><strong>React Native</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="65" height="65" />
-        <br><strong>Next.js</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
         <br><strong>Node.js</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+        <br><strong>Next.js</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
         <br><strong>Firebase</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" width="65" height="65" />
-        <br><strong>GCP</strong>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+        <br><strong>MySQL</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="65" height="65" />
-        <br><strong>MongoDB</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="65" height="65" />
-        <br><strong>MySQL</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
         <br><strong>PostgreSQL</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" width="65" height="65" />
-        <br><strong>Supabase</strong>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
+        <br><strong>TailwindCSS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+        <br><strong>GitHub</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+        <br><strong>Figma</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+        <br><strong>Docker</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Google Cloud" />
+        <br><strong>GCP</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
         <br><strong>Vercel</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="65" height="65" />
-        <br><strong>Git</strong>
+        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+        <br><strong>Vite</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="65" height="65" alt="Three.js" />
+        <br><strong>Three.js</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
+        <br><strong>Supabase</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="65" height="65" alt="Express" />
+        <br><strong>Express</strong>
       </td>
     </tr>
   </table>
@@ -139,10 +173,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/213920591-a1b5e2b0-8381-4a9e-8001-cc396eac074d.gif" width="400" />
 </div>
 
-## 📊 GitHub Stats & Activity
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shri23Chau-victor&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00" alt="GitHub Stats" />
@@ -157,10 +191,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd0ce3e1852.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/213896635-b9199b74-a58c-475f-9f97-2bb8e708e4f1.gif" width="300" />
 </div>
 
-## 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=700&lines=🔬+Mastering+Data+Structures+%26+Algorithms;🚀+Building+Full-Stack+Web+Applications;🤖+Exploring+AI+%26+Machine+Learning;📚+Continuous+Learning+%26+Growth;🌍+Contributing+to+Open+Source;⚡+Creating+Innovative+IoT+Solutions" alt="Current Focus" />
@@ -169,10 +203,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd0ce3e1852.gif" width="300" />
 </div>
 
-## 🌟 Featured Projects
+<h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/Shri23Chau-victor">
@@ -182,7 +216,11 @@
 
 <br>
 
-## 🎮 Fun Facts
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215957871-6b02a5e0-0a43-4cbd-9db5-a88d8c0f5e13.gif" width="300" />
+</div>
+
+<h2 align="center">🎮 Fun Facts</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=🎨+Problem+Solver+by+Heart,+Coder+by+Passion;💡+Turning+Coffee+into+Code;⚡+Always+Debugging,+Never+Giving+Up;🌍+Building+Tomorrow's+Technology+Today;🔥+IoT+Enthusiast+%26+Hardware+Hacker;✨+Integrating+Ideas+with+Innovation" alt="Fun Facts" />
@@ -194,7 +232,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🏆 Achievements & Milestones
+<h2 align="center">🏆 Achievements & Milestones</h2>
 
 <div align="center">
   
@@ -212,10 +250,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/216006549-f7275ca4-ea7a-49d3-8eae-0dfa166b5be4.gif" width="400" />
 </div>
 
-## 📈 Profile Views & Contributions
+<h2 align="center">📈 Profile Views & Contributions</h2>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shri23Chau-victor&color=00FF00&style=flat-square" alt="Profile Views"/>
@@ -223,7 +261,7 @@
 
 <br>
 
-## 🔥 Contribution Graph
+<h2 align="center">🔥 Contribution Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shri23Chau-victor&theme=react-dark&hide_border=true&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
@@ -232,10 +270,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd0ce3e1852.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/213896635-b9199b74-a58c-475f-9f97-2bb8e708e4f1.gif" width="300" />
 </div>
 
-## 💡 Random Dev Quote
+<h2 align="center">💡 Random Dev Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
@@ -247,7 +285,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 </div>
 
-## 🎯 Let's Connect & Collaborate!
+<h2 align="center">🎯 Let's Connect & Collaborate!</h2>
 
 <div align="center">
   <p><strong>I'm always open to interesting conversations, collaborations, and new opportunities.</strong></p>
