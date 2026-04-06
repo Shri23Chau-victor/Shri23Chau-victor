@@ -1,40 +1,57 @@
-# Hi there! 👋 I'm Shriyansh Chauhan
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Hey+There!+👋;I'm+Shriyansh+Chauhan;ECE+Student+%7C+Full-Stack+Developer;Code.+Learn.+Build.+Repeat+🚀;A+Passionate+Developer+in+Progress" alt="Typing SVG" /></div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Attractive Coding Animation" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
+
+<br>
 
 <div align="center">
-  <h3>⚡ Electronics & Communication Engineering Student | Full-Stack & Embedded Systems Developer ⚡</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </div>
+
+## 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;🚀+Building+real-world+solutions+with+hardware+%26+software;💡+Passionate+about+embedded+systems+and+web+development;🔧+Turning+ideas+into+innovative+technology;Let's+connect+and+collaborate!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🎓+ECE+Student+with+Software+Passion;🚀+Building+Hardware+%26+Software+Solutions;🤖+AI+%26+ML+Enthusiast;🌟+Full-Stack+Developer;🔥+Lifelong+Learner+%26+Innovator" alt="About Me" />
 </div>
 
----
+<p align="center">
+  I'm an <b>Electronics & Communication Engineering (ECE)</b> student passionate about building real-world solutions by integrating software and hardware. I develop projects across <b>embedded systems, full-stack web development, and system-level applications</b>. My journey combines <b>DSA mastery, innovative coding, and IoT solutions</b> to create technology that makes a difference.
+</p>
 
-## 🚀 About Me
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHnPFtWC4/giphy.gif" width="100" alt="Developer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </div>
 
-- 🎓 Electronics & Communication Engineering (ECE) student, passionate about building real-world solutions by integrating software and hardware
-- 🔭 Developing projects across embedded systems, software development, and system-level applications
-- 🌱 Strengthening skills in Data Structures & Algorithms, programming, electronics, and embedded platforms
-- 💡 Continuously learning, experimenting with new technologies, and contributing to open-source projects
-- 👯 I'm looking to collaborate on open-source projects and innovative tech solutions
-- 📫 How to reach me: shriyansh.chauhan.work@gmail.com
-- ⚡ Fun fact: I love integrating software with hardware to create innovative IoT solutions!
+## 🌐 Connect With Me
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/Shriyansh Chauhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shriyansh.chauhan.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Shri23Chau-victor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+</div>
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
-  <h3>🛠️ Languages & Frameworks</h3>
-</div>
+### 🛠️ Languages & Frameworks
 
 <div align="center">
   <table>
@@ -119,90 +136,63 @@
   </table>
 </div>
 
-### 🎯 Tech Categories
-
-| 🖥️ **Frontend** | ⚙️ **Backend** |
-|---|---|
-| React, React Native, Next.js | Node.js, Express |
-| TypeScript, JavaScript | Firebase, Supabase |
-| HTML5, CSS3, TailwindCSS | RESTful APIs |
-| Semantic UI, Vite, Three.js | Real-time Databases |
-
-| 🗄️ **Databases** | 🛠️ **Tools & Others** |
-|---|---|
-| MongoDB, MySQL | Git, GitHub |
-| PostgreSQL, Firebase | Figma, Canva |
-| Data Modeling | Google Cloud, Vercel |
-| Query Optimization | C, C++, Java, Python |
-
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <h3>✨ My GitHub Analytics ✨</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</div>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shri23Chau-victor&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shri23Chau-victor&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shri23Chau-victor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shri23Chau-victor&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shri23Chau-victor&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shri23Chau-victor&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd0ce3e1852.gif" width="300" />
 </div>
 
-<br/>
+## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shri23Chau-victor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=700&lines=🔬+Mastering+Data+Structures+%26+Algorithms;🚀+Building+Full-Stack+Web+Applications;🤖+Exploring+AI+%26+Machine+Learning;📚+Continuous+Learning+%26+Growth;🌍+Contributing+to+Open+Source;⚡+Creating+Innovative+IoT+Solutions" alt="Current Focus" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shri23Chau-victor&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 </div>
-
----
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" alt="Projects Animation"/>
-  <h3>🚀 Check Out My Latest Work</h3>
-</div>
-
-<div align="center">
   <a href="https://github.com/Shri23Chau-victor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shri23Chau-victor&theme=dark&hide_border=true" alt="Featured Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shri23Chau-victor&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9" alt="Featured Project"/>
   </a>
 </div>
 
----
+<br>
 
-## 📞 Connect with Me
+## 🎮 Fun Facts
 
 <div align="center">
-  <img src="https://media.giphy.com/media/OVOjNjpvTchm47MmM1/giphy.gif" width="100" alt="Connect Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=🎨+Problem+Solver+by+Heart,+Coder+by+Passion;💡+Turning+Coffee+into+Code;⚡+Always+Debugging,+Never+Giving+Up;🌍+Building+Tomorrow's+Technology+Today;🔥+IoT+Enthusiast+%26+Hardware+Hacker;✨+Integrating+Ideas+with+Innovation" alt="Fun Facts" />
 </div>
+
+<br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/Shriyansh Chauhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shriyansh.chauhan.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email"/>
-  </a>
-  <a href="https://github.com/Shri23Chau-victor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
-
----
 
 ## 🏆 Achievements & Milestones
 
@@ -215,73 +205,66 @@
   | 🤝 Open Source Contributor | 🎯 In Progress |
   | 💡 IoT Solutions Builder | 🚀 In Progress |
   | 🔧 Embedded Systems Expert | 📚 Advancing |
+  | 🏅 Problem Solving Champion | 🏅 Pursuing |
   
 </div>
 
----
-
-## 🎨 Random Dev Quote
+<br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </div>
 
----
-
-## 🔝 Top Contributed Repos
+## 📈 Profile Views & Contributions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shri23Chau-victor&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+  <img src="https://komarev.com/ghpvc/?username=Shri23Chau-victor&color=00FF00&style=flat-square" alt="Profile Views"/>
 </div>
 
----
+<br>
 
-## 💬 Fun Facts
+## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlQaQ9rQbE6bVlO/giphy.gif" width="100" alt="Fun Fact Animation"/>
-  
-  > 🚀 I love turning coffee into code!
-  >
-  > 💡 Building projects that bridge hardware and software.
-  >
-  > 🎯 Always up for learning something new every day!
-  >
-  > 🌍 Passionate about creating innovative IoT solutions!
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shri23Chau-victor&theme=react-dark&hide_border=true&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
----
-
-## 📈 Contribution Graph
+<br>
 
 <div align="center">
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shri23Chau-victor&theme=react-dark&hide_border=true&area=true)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd0ce3e1852.gif" width="300" />
 </div>
 
----
+## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Wave Animation"/>
-  
-  <h3>Thanks for visiting my profile! 🌟</h3>
-  
-  <p>⭐ Feel free to star my repos and connect with me!</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Shri23Chau-victor&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00FF00&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%98%8A;Keep+Learning%2C+Keep+Growing!+%F0%9F%9A%80" alt="Goodbye Animation"/>
-  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+</div>
+
+## 🎯 Let's Connect & Collaborate!
+
+<div align="center">
+  <p><strong>I'm always open to interesting conversations, collaborations, and new opportunities.</strong></p>
+  <p><strong>Feel free to reach out and let's build something amazing together! 🚀</strong></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+😊;Let's+innovate+together!+🌟;Have+a+great+day!+✨" alt="Thanks" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 ---
 
 <div align="center">
-  
-  **Made with ❤️ by [Shriyansh Chauhan](https://github.com/Shri23Chau-victor)**
-  
+  <p><strong>Made with ❤️ and lots of ☕</strong></p>
+  <p><em>"Code is poetry in motion" - Unknown</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Quality+Code+%7C+Innovation+%7C+Growth" alt="Footer" />
 </div>
